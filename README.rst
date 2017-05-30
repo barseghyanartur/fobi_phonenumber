@@ -11,7 +11,7 @@ Installation
 
 .. code-block:: sh
 
-    pip install django-fobi
+    pip install fobi-phonenumber
 
 (2) Add ``fobi.contrib.plugins.form_elements.fields.text`` to the
     ``INSTALLED_APPS`` in your ``settings.py``.
