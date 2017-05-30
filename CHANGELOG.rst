@@ -24,8 +24,8 @@ are used for versioning (schema follows below):
   Update your database accordingly.
 - Minor package updates/improvements (added wheels support, clean-up).
 
-0.1
----
+0.1.0
+-----
 2016-02-10
 
 - Initial release.

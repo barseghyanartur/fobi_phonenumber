@@ -11,7 +11,7 @@ setup(
         'django-fobi>=0.6.5',
         'django-phonenumber-field>=1.0.0'
     ],
-    version='0.1.0',
+    version='0.2.0',
     author='James Fenwick',
     author_email='jfenwick@tecaz.com',
     url='https://github.com/jmsfwk/fobi_phonenumber',
